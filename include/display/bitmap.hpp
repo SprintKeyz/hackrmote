@@ -1,6 +1,8 @@
 #pragma once
 
 #include <iostream>
+#include <pgmspace.h>
+#include <Adafruit_SSD1306.h>
 
 struct s_Bitmap {
     const int16_t width;
